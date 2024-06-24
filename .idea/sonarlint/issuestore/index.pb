@@ -134,3 +134,11 @@ G
 configs/application.yml,8/1/813af66a60228a924660166628b02e5f8a7f2182
 K
 configs/product-service.yml,e/4/e4441ecd2912ba21ccdcaf38f1fc28168195cdaf
+M
+configs/discovery-service.yml,d/7/d76ce7effb1d68111efc8c3ae02ddb78bf84619f
+K
+configs/gateway-service.yml,5/3/537ac14cade0d82a259070c1bbb51777fea22bd7
+M
+configs/inventory-service.yml,1/d/1d461c78ddff0a7603674fb20abc8ad927d07f49
+I
+configs/order-service.yml,6/0/60be07d86d86c3932e3b0d07a5bb024e0b65fa39
