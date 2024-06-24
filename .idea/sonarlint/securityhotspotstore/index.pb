@@ -130,3 +130,7 @@ E
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+G
+configs/application.yml,8/1/813af66a60228a924660166628b02e5f8a7f2182
+K
+configs/product-service.yml,e/4/e4441ecd2912ba21ccdcaf38f1fc28168195cdaf
