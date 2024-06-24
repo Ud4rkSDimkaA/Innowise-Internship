@@ -1,0 +1,7 @@
+
+”
+java:S1128"LRemove this unused import 'com.micro.orderservice.store.entity.OrderEntity'.(€™Ö¹úÿÿÿÿ8«÷ôÿ1J$d490735e-7867-454c-88a8-922b4488a97c
+~
+java:S1128";Remove this unused import 'jakarta.persistence.JoinColumn'.(İçÆ•8«÷ôÿ1J$a68dad26-e3b6-45c9-88d9-3142037fbc3b
+‚
+java:S1128":Remove this unused import 'jakarta.persistence.ManyToOne'.(áîÖãùÿÿÿÿ8«÷ôÿ1J$84d638c0-6f00-4f1b-bd24-9156c42c16ef

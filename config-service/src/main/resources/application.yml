@@ -1,0 +1,11 @@
+server:
+  port: 8888
+spring:
+  application:
+    name: config-service
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/Ud4rkSDimkaA/Innowise-Internship/configs
+          clone-on-start: true
